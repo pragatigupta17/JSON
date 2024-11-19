@@ -1,0 +1,19 @@
+{
+    "students":[
+        {
+            "name":"Pragati Gupta",
+            "age":24,
+            "address":"gautam nagar"
+        },
+        {
+            "name":"Sajal Gupta",
+            "age":25,
+            "address":"fbd"
+        },
+        {
+            "name":"Shambhavi",
+            "age":24,
+            "address":"bihar"
+        }
+    ]
+}
